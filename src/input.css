@@ -1,3 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('../assets/fonts/outfit/static/Inter-Bold.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+@font-face {
+    font-family: 'Outfit';
+    src: url('../assets/fonts/outfit/static/Inter-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+@font-face {
+    font-family: 'Outfit';
+    src: url('../assets/fonts/outfit/static/Inter-SemiBold.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
+  
